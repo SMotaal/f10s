@@ -1,28 +1,28 @@
-<center align=center>
+<div align=center>
 
 # <img alt="Accessibility" src="./assets/Frictionless.svg" height=72 /><br/>Frictionless<br/>Documentation<br/><sup><sub>`f10s/docs`</sub></sup>
 
 Collective rethinking of documents that drive our collective efforts.
 
-</center>
+</div>
 
 ## Overview
 
 The idea is to start an effort for various 101 docs and create variations that are suited to different reading styles and preferences, not unlike i18n, but which are frictionless and/or accessible!
 
-<center align=center><p>
+<div align=center><p>
 
 _`baby steps though… nothing big!`_
 
-</p></center>
+</p></div>
 
 For starters, folks could write the missing README files for how to use GitHub… etc, then move on to other documents in our shared knowledge base, for the open source collective.
 
-<center align=center><p>
+<div align=center><p>
 
 _`it's like collective i18n effort… to some extent!`_
 
-</p></center>
+</p></div>
 
 Doing that will likely be the missing agent that will finally help close the gaps between the various frames of reference, and that will make it possible to reason about the unknown expanse that leaves all of us unsure where to begin.
 
