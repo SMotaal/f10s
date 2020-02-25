@@ -37,3 +37,7 @@ Now do this for your:
 - Operations — ie internal and customer threads.
 
 To get this right, you must retrain how you go about estimating time and cost, but in all likelihood, that worry that it takes more, that is just your blindsight to all the loss you incur when you leave behind exponential work that someone else somewhere at one point in time will have to try to hack somehow, or think they did.
+
+### Initiatives
+
+- [Frictionless Documentation `f10s/docs`](./DOCS.md)
