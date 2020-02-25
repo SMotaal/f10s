@@ -12,7 +12,7 @@ The idea is to start an effort for various 101 docs and create variations that a
 
 <div align=center><p>
 
-_`baby steps though… nothing big!`_
+_<q>baby steps though… nothing big!</q>_
 
 </p></div>
 
@@ -20,7 +20,7 @@ For starters, folks could write the missing README files for how to use GitHub�
 
 <div align=center><p>
 
-_`it's like collective i18n effort… to some extent!`_
+_<q>it's like collective i18n effort… to some extent!</q>_
 
 </p></div>
 
